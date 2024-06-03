@@ -1,0 +1,22 @@
+SECA:  static const struct CardConfig cardCfg = {
+  SM_8E2,2000,300
+  };
+CONAX: static const struct CardConfig cardCfg = {
+  SM_8E2,1000,100
+  };
+CRYPTO:static const struct CardConfig cardCfg = {
+  SM_8E2,1000,100
+  };
+
+IRDEYO:static const struct CardConfig cardCfg = {
+  SM_8N2,3000,100
+  };
+NAGRA: static const struct CardConfig cardCfg = {
+  SM_8O2,500,800
+  };
+VIAC:  static const struct CardConfig cardCfg = {
+  SM_8O2,500,300
+  };
+NDS:   static const struct CardConfig cardCfg = {
+  SM_8O2,2000,1400
+  };
